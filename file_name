@@ -1,4 +1,0 @@
-Prepended http:// to '{file_path}'
---2026-10-20 11:40:56--  http://%7Bfile_path%7D/
-Resolving {file_path} ({file_path})... failed: Name or service not known.
-wget: unable to resolve host address ‘{file_path}’
